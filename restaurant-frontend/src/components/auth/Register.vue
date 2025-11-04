@@ -1,0 +1,6 @@
+<template>
+  <div>
+    <h2>Register</h2>
+    <!-- Add registration form here -->
+  </div>
+</template>
